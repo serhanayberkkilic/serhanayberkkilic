@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on AI, Web development<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on AI, Web development<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
